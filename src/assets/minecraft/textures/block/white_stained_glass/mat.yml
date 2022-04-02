@@ -1,0 +1,11 @@
+opacity:
+  value: 40
+color:
+  value: '#ACCDCD'
+normal:
+  curve-x: 90
+  curve-y: 90
+smooth:
+  value: 0.9
+f0:
+  value: 0.043
