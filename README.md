@@ -8,12 +8,19 @@ You can find them under _Assets_ in the [Releases](https://github.com/null511/MC
 
 ## Usage
 
-|Channel|Blocks|
+|Block|Data|
 |-|-|
-|Smoothness|iron_block, gold_block, copper_block|
-|Porosity|concrete|
-|SSS|wool|
-|Emissive|concrete_powder|
+|gray_wool|HCM 230: Iron|
+|yellow_wool|HCM 231: Gold|
+|light_blue_wool|HCM 232: Aluminum|
+|white_wool|HCM 233: Chrome|
+|orange_wool|HCM 234: Copper|
+|black_wool|HCM 235: Lead|
+|purple_wool|HCM 236: Platinum|
+|light_gray_wool|HCM 237: Silver|
+|blue_wool|HCM 255: Albedo|
+|-|-|
+|white_stained_glass|Spherical Normals|
 
 ## Editing
 
