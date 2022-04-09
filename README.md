@@ -1,10 +1,8 @@
-# Material-Test
-A Minecraft Resource Pack designed for testing shader PBR features. **Not for gameplay use**.
+# Chronos (test RP)
+A Minecraft resource-pack specifically made for the Chronos shader.
 
 ## Releases
-You can find them under _Assets_ in the [Releases](https://github.com/null511/MCRP-Material-Test/releases) section.
-
-\*The LabPbr 32x release is the recommended version.
+You can find them under _Assets_ in the [Releases](https://github.com/null511/MCRP-Chronos/releases) section.
 
 ## Usage
 
@@ -21,6 +19,7 @@ You can find them under _Assets_ in the [Releases](https://github.com/null511/MC
 |blue_wool|HCM 255: Albedo|
 |-|-|
 |white_stained_glass|Spherical Normals|
+|black_stained_glass|Wavy Normals|
 
 ## Editing
 
