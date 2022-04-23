@@ -20,9 +20,10 @@ You can find them under _Assets_ in the [Releases](https://github.com/null511/MC
 
 |Other Blocks|Data Type|
 |-|-|
-|white_stained_glass|Spherical Normals|
-|black_stained_glass|Wavy Normals|
 |honeycomb_block|SubSurface Scattering|
+|black_stained_glass|Glass tiles with HCM:Gold frame|
+|brown_stained_glass|Wavy Normals|
+|white_stained_glass|Spherical Normals|
 
 ## Editing
 

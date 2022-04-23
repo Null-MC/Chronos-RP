@@ -4,4 +4,5 @@ height:
 f0:
   value: 0.04
 sss:
-  scale: 0.8
+  shift: 0.1342
+  scale: 0.45
