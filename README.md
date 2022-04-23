@@ -20,6 +20,7 @@ You can find them under _Assets_ in the [Releases](https://github.com/null511/MC
 |-|-|
 |white_stained_glass|Spherical Normals|
 |black_stained_glass|Wavy Normals|
+|honeycomb_block|SubSurface Scattering|
 
 ## Editing
 
