@@ -6,7 +6,7 @@ You can find them under _Assets_ in the [Releases](https://github.com/null511/MC
 
 ## Usage
 
-|Block|Data|
+|HCM Blocks|Data Type|
 |-|-|
 |gray_wool|HCM 230: Iron|
 |yellow_wool|HCM 231: Gold|
@@ -17,6 +17,8 @@ You can find them under _Assets_ in the [Releases](https://github.com/null511/MC
 |purple_wool|HCM 236: Platinum|
 |light_gray_wool|HCM 237: Silver|
 |blue_wool|HCM 255: Albedo|
+
+|Other Blocks|Data Type|
 |-|-|
 |white_stained_glass|Spherical Normals|
 |black_stained_glass|Wavy Normals|
