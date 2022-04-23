@@ -3,7 +3,14 @@ color:
 height:
   scale: 0.015
   auto-level: true
+normal:
+  curve-x: 90
+  curve-y: 90
+  radius-x: 0.04
+  radius-y: 0.04
 occlusion:
   z-bias: 1
+smooth:
+  scale: 0.8793
 hcm:
   value: 234

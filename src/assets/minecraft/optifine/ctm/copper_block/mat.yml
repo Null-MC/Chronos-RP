@@ -1,0 +1,22 @@
+color:
+  value: '#C9A590'
+height:
+  scale: 0.0710
+  auto-level: true
+  edge-fade-x: 2
+  edge-fade-y: 2
+smooth:
+  value: 0.9
+hcm:
+  value: 234
+ctm:
+  method: of-repeat
+  width: 4
+  height: 4
+filters:
+- name: default
+  tile: true
+  normal-curve-x: 90
+  normal-curve-y: 90
+  normal-radius-x: 0.04
+  normal-radius-y: 0.04

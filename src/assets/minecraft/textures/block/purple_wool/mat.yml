@@ -5,5 +5,7 @@ height:
   auto-level: true
 occlusion:
   z-bias: 1
+smooth:
+  scale: 1.1744
 hcm:
   value: 236
